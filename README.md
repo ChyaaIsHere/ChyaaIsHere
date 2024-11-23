@@ -1,6 +1,6 @@
 ---
 
-# Hello! I'm, Rivaldo Cahya Sapurtra 👋  
+# Hello! I'm, Rivaldo Cahya Saputra 👋  
 
 Welcome to my GitHub profile! I'm a passionate developer who loves exploring new technologies and crafting exciting projects. Beyond coding, I find joy in reading novels 📚 and immersing myself in the world of music 🎵.  
 
