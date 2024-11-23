@@ -9,8 +9,7 @@
 </p>
 <br>
 
----
-<br>
+
 
 ## 📘 That I have learned..
 - **Frontend:** ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
@@ -21,8 +20,7 @@
 - **Programming Languages:** ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white)
 <br>
 
----
-<br>
+
 
 ## 🧑🏻‍💻 My Statistics
 <table border="0">
