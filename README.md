@@ -1,5 +1,4 @@
 ---
-<br>
 <h1 align="center">Hi! I'm Rivaldo Cahya Saputra! 🙇🏻‍♂️</h1>
 <p align="center">Someone who is curious about the world of coding, and I'm a passionate developer who loves exploring new technologies and crafting exciting projects. Beyond coding, I find joy in reading novels and immersing myself in the world of music 📖🌟</p> 
 <br>
